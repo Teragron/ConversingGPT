@@ -1,0 +1,6 @@
+whisper
+pyautogui
+sounddevice
+scipy
+PyQt5
+pynput
