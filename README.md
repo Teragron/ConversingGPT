@@ -24,8 +24,9 @@ To use the script, clone the repository and install the dependencies:
 git clone https://github.com/USERNAME/conversing-with-language-model.git
 cd conversing-with-language-model
 pip install -r requirements.txt
-
+```
 Then run the script:
+
 ```
 python src/main.py
 ```
