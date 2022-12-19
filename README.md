@@ -9,7 +9,7 @@ This repository contains a script that allows you to communicate with a language
 ## Dependencies
 
 - Python 3
-- [whisper][(https://github.com/mozilla/whisper](https://github.com/openai/whisper))
+- [whisper][(https://github.com/mozilla/whisper](https://github.com/openai/whisper)]
 - [pyautogui](https://pyautogui.readthedocs.io/)
 - [sounddevice](https://python-sounddevice.readthedocs.io/)
 - [scipy](https://www.scipy.org/)
