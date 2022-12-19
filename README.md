@@ -52,6 +52,6 @@ Acknowledgments
 
 # Possible improvements
 
-- I am planning to interract with the ChatGPT Website using ""acheong08/ChatGPT""'s repository, which will also enable me to apply TTS to the prompts of ChatGPT, making the conversing smoother.
+- I am planning to interract with the ChatGPT Website using acheong08/ChatGPT's repository, which will also enable me to apply TTS to the prompts of ChatGPT, making the conversing smoother.
 - The base and medium models of Whisper still perform poorly. Using a fine-tuned model could speed up the STT process and can offer more accurate results.
 - The functions and variables are not well organized. I will use methodal shortcuts to reduce the time between Speech to Text.
