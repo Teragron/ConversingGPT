@@ -45,4 +45,4 @@ Acknowledgments
 - [pynput](https://pynput.readthedocs.io/)
 
 # Demo
-[![Watch the video](https://i.imgflip.com/604ad4.jpg)]([https://www.youtube.com/watch?v=tM6KFKM0MS0](https://youtu.be/GKOf6Nyi6zk))
+[![Watch the video](https://i.imgflip.com/604ad4.jpg)](https://www.youtube.com/watch?v=tM6KFKM0MS0](https://youtu.be/GKOf6Nyi6zk](https://youtu.be/GKOf6Nyi6zk)))
