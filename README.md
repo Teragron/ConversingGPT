@@ -28,7 +28,9 @@ pip install -r requirements.txt
 Then run the script:
 
 
-```python src/main.py```
+```bash
+python src/main.py
+```
 
 
 This will open the GUI, which includes buttons for starting and stopping the recording. When the "Start recording" button is clicked, the script will start recording audio. When the "Stop recording" button is clicked, the script will stop the recording, save the recorded audio to a file, transcribe the audio to text, and send the transcribed text to the target application.
