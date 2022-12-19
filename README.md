@@ -2,8 +2,6 @@
 A script for communicating with the ChatGPT language model using audio recording and transcription
 
 
-# Conversing with a Language Model
-
 This repository contains a script that allows you to communicate with a language model using audio recording and transcription. The script includes a GUI that allows you to start and stop the recording, and the transcribed text is sent to the target application.
 
 ## Dependencies
