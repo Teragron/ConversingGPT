@@ -20,16 +20,16 @@ This repository contains a script that allows you to communicate with a language
 
 To use the script, clone the repository and install the dependencies:
 
-```bash
-git clone https://github.com/USERNAME/conversing-with-language-model.git
-cd conversing-with-language-model
-pip install -r requirements.txt
-```
+```bash git clone https://github.com/USERNAME/conversing-with-language-model.git```
+```bashcd conversing-with-language-model```
+```pip install -r requirements.txt```
+
+
 Then run the script:
 
-```
-python src/main.py
-```
+
+```python src/main.py```
+
 
 This will open the GUI, which includes buttons for starting and stopping the recording. When the "Start recording" button is clicked, the script will start recording audio. When the "Stop recording" button is clicked, the script will stop the recording, save the recorded audio to a file, transcribe the audio to text, and send the transcribed text to the target application.
 
