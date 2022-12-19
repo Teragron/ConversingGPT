@@ -20,9 +20,10 @@ This repository contains a script that allows you to communicate with a language
 
 To use the script, clone the repository and install the dependencies:
 
-```bash git clone https://github.com/USERNAME/conversing-with-language-model.git```
-```bashcd conversing-with-language-model```
-```pip install -r requirements.txt```
+```bash git clone https://github.com/USERNAME/conversing-with-language-model.git
+bashcd conversing-with-language-model
+pip install -r requirements.txt
+```
 
 
 Then run the script:
